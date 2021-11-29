@@ -1,3 +1,12 @@
+# Instalacion
+
+1. Descargar SetUp.exe, en formato .zip
+2. Descomprimirlo
+3. Ejecutarlo como administrador
+4. Listo
+5. Recomiendo que generes una carpeta propia para la aplicaccion
+6. !! No ocupas otros framewors o herramientas para el uso de la app
+
 # Calculadora-de-Matrices# 
 - - Importante!!, No esta terminado, hay unas 3 cosas que no funcionan, solo que tengo que dedicarme a otro proyecto.
 
